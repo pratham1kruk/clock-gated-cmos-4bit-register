@@ -71,16 +71,13 @@ clock-gated-cmos-4bit-register/
 ├── img/
 │   ├── dsch/
 │   │   ├── and_gating_schematic.png
-│   │   ├── and_gating_timing_1.png
-│   │   ├── and_gating_timing_2.png
+│   │   ├── and_gating_timing_.png
 │   │   ├── xor_gating_schematic.png
-│   │   ├── xor_gating_timing_1.png
-│   │   └── xor_gating_timing_2.png
+│   │   ├── xor_gating_timing.png
 │   └── microwind/
 │       ├── and_gating_layout.png
 │       ├── and_gating_layout_area.png
 │       ├── and_gating_simulation.png
-│       ├── xor_gating_layout.png
 │       ├── xor_gating_simulation.png
 │       └── performance/
 │           ├── and_power_efficiency.png
