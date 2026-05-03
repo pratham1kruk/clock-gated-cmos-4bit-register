@@ -161,10 +161,6 @@ This yields a theoretical **~31.6% reduction** in dynamic clock power compared t
 <td align="center"><img src="img/microwind/and_gating_simulation.png" width="320"/><br><sub>Microwind — AND gating waveform</sub></td>
 <td align="center"><img src="img/microwind/xor_gating_simulation.png" width="320"/><br><sub>Microwind — XOR gating waveform</sub></td>
 </tr>
-<tr>
-<td align="center"><img src="img/microwind/performance/and_power_efficiency.png" width="320"/><br><sub>AND — Power efficiency vs load</sub></td>
-<td align="center"><img src="img/microwind/performance/xor_power_efficiency.png" width="320"/><br><sub>XOR — Power efficiency vs load</sub></td>
-</tr>
 </table>
 
 ---
